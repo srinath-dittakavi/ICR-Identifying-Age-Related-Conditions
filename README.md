@@ -6,7 +6,9 @@ Welcome to our ICR-Identifying-Age-Related-Conditions project, where we dive int
 Meet the Team:
 
 - Srinath Dittakavi
+
 - Kyle Burgin
+
 - Waleed Karshe
 
 Project Overview:
