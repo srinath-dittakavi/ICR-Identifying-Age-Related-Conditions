@@ -19,4 +19,4 @@ We utilized the ICR - Identifying Age-Related Conditions dataset, generously pro
 
 
 **Achievements:**
-Our hard work resulted in us securing the 1209th position out of 6431 participants, placing us in the prestigious **Top 19% ** of the competition. This achievement underscores the effectiveness of our approach and the potential impact it can have on healthcare.
+Our hard work resulted in us securing the 1209th position out of 6431 participants, placing us in the prestigious **Top 19%** of the competition. This achievement underscores the effectiveness of our approach and the potential impact it can have on healthcare.
