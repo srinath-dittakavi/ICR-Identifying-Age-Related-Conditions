@@ -5,9 +5,9 @@ Welcome to our ICR-Identifying-Age-Related-Conditions project, where we dive int
 
 Meet the Team:
 
-Srinath Dittakavi
-Kyle Burgin
-Waleed Karshe
+- Srinath Dittakavi
+- Kyle Burgin
+- Waleed Karshe
 
 Project Overview:
 In the quest to make healthcare more efficient and accessible, we leveraged the power of machine learning to streamline the identification of age-related conditions. Our notebook provides a step-by-step guide on training a baseline Random Forest model using TensorFlow Decision Forests, making it accessible for both beginners and seasoned data scientists.Throughout our journey, we explored various models, including: Logistic Regression, Random Forest and Support Vector Machine (SVM)
