@@ -1,5 +1,5 @@
 # ICR-Identifying-Age-Related-Conditions
-This project, part of an InVitro Cell Research competition, aims to predict if a person has three medical conditions (Class 1) or none (Class 0) using health measurements, streamlining a lengthy data collection process to protect patient privacy and aid researchers in understanding the condition-characteristics relationship.
+This project, part of an InVitro Cell Research competition, aims to predict if a person has 2 medical conditions (Class 1) or none (Class 0) using health measurements, streamlining a lengthy data collection process to protect patient privacy and aid researchers in understanding the condition-characteristics relationship.
 
 Welcome to our ICR-Identifying-Age-Related-Conditions project, where we dive into the realm of healthcare and machine learning! In this project, we tackled the ICR - Identifying Age-Related Conditions Dataset using cutting-edge technology, TensorFlow Decision Forests, to address the critical task of predicting if an individual has one or more of three age-related medical conditions or none at all.
 
